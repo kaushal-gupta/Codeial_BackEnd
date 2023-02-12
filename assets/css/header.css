@@ -1,0 +1,22 @@
+header {
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #1a1ad8;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+  header div a {
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px; }
+  header ul {
+    list-style: none; }
+    header ul li {
+      display: inline; }
+      header ul li a {
+        text-decoration: none;
+        color: white;
+        font-size: 24px;
+        padding-right: 10px; }
